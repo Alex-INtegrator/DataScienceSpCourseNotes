@@ -56,7 +56,7 @@ $\pagebreak$
 * Always use text files/editor
 * Indent code (4 spaces minimum, 8 spaces ideally)
 * limit the width of code (80 columns)
-* limit the length of individual functions
+* limit the length of individual functions. Divided in logical pieces
 
 
 ## Workspace and Files
