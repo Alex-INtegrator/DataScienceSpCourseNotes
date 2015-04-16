@@ -332,6 +332,15 @@ $\pagebreak$
 
 $\pagebreak$
 
+## Control Structures
+* If-else
+* For loops
+* While loops
+* Repeat, Next, Break
+	*Repeat : 
+	*Next :
+	*Break :
+
 ## Split-Apply-Combine Funtions
 * loop functions = convenient ways of implementing the Split-Apply-Combine strategy for data analysis
 
