@@ -54,7 +54,7 @@ $\pagebreak$
 
 ## Coding Standards
 * Always use text files/editor
-* Indent code (4 space minimum)
+* Indent code (4 spaces minimum, 8 spaces ideally)
 * limit the width of code (80 columns)
 * limit the length of individual functions
 
